@@ -1,0 +1,6 @@
+{
+  "name": "Creator Hub",
+  "description": "Painel pessoal para organizar negócio de criação de Landing Pages e Design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
